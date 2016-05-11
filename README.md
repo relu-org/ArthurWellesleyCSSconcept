@@ -2,7 +2,13 @@
 
 ###Grid (HTML structure)
 
-inline <sections> model only
+inline model only like:
+
+`
+<section id="s1"></section>
+<section id="s2"></section>
+<section id="s3"></section>
+`
 
 ###CSS
 
