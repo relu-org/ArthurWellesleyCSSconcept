@@ -1,10 +1,10 @@
 # ArthurWellesleyCSSconcept
 
-Grid (HTML structure)
+###Grid (HTML structure)
 
 inline <sections> model only
 
-CSS
+###CSS
 
 Slice on three files like:
 
