@@ -1,5 +1,7 @@
 # ArthurWellesleyCSSconcept
 
+description in progress...
+
 ###Grid (HTML structure)
 
 inline model only like:
