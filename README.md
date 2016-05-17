@@ -27,7 +27,7 @@ Slice on three files like:
 
 ###HTML usecase example
 
-`
+<main>
 <main>
 
 	<div id="s1-wraper" class="s-wrapper">
@@ -80,4 +80,4 @@ Slice on three files like:
 	<div id="s7-after"></div>	
 
 </main>
-`
+</main>
