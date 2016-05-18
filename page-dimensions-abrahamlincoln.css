@@ -25,3 +25,10 @@ main{
   height: 4vw;
   width: 4vw;
 }
+
+#s5 figure {
+  padding: 0px;
+  margin: 5px;
+  height: 100%;
+  width: 10vw;
+}
