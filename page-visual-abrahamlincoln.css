@@ -13,6 +13,33 @@ figure{
   background-size: cover;
 }
 
+#s1 {
+	background-color: #000e0e;
+}
+
+#s2 {
+	background-color: #0e000e;
+}
+
+#s3 {
+	background-color: #0e0e00;
+}
+
+#s4 {
+	background-color: #0e0e0e;
+}
+
+#s5 {
+	background-color: #00000e;
+}
+
+#s6 {
+	background-color: #0e0000;
+}
+
+#s7 {
+	background-color: #000e00;
+}
 
 #s1 h2, 
 #s2 h2, 
