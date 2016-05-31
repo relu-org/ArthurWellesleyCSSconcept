@@ -8,13 +8,13 @@ main{
   color:#fff;
 }
 
-#s2 .bx .bx-body:first-child{
+#s2 .bx:first-child > .bx-body{
 	background-color: #eee;
 }
-#s2 .bx .bx-body:last-child > h2{
+#s2 .bx:last-child > .bx-body h2{
 	display:none;
 }
-#s2 .bx .bx-body:last-child > p{
+#s2 .bx:last-child > .bx-body p{
 	display:none;
 }
 
