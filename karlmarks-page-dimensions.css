@@ -1,41 +1,6 @@
-main{
-  min-height:100vh;
+#s1 .bx{
+  height:30%;
 }
-
-.bx-wrapper{
-  min-height:3em;
-}
-
-figure {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  width: 100%;
-}
-
-#s1{
-  text-align: center;
-}
-
-#s1 figure{
-  /* zero */
-  padding:0;
-  width:100%;
-  padding-bottom:100%;
-  margin:0 auto;
-}
-
-#s3 figure{
-  /* zero */
-  padding: 0px;
-  margin: 5px;
-  height: 4vw;
-  width: 4vw;
-}
-
-#s5 figure {
-  padding: 0px;
-  margin: 5px;
-  height: 10vw;
-  width: 100%;
+#s1 .bx .bx-body{
+  background-color: rgba(255,255,255,0.5);
 }
