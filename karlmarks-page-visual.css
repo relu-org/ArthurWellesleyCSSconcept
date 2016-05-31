@@ -8,6 +8,23 @@ main{
   color:#fff;
 }
 
+#s2 .bx .bx-body:first-child{
+	background-color: #eee;
+}
+#s2 .bx .bx-body:last-child > h2{
+	display:none;
+}
+#s2 .bx .bx-body:last-child > p{
+	display:none;
+}
+
+#s3{
+	background-color: #8A0023;
+}
+
+#s4{
+	background-color: #8A0023;
+}
 
 
 
