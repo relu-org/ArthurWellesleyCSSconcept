@@ -1,3 +1,8 @@
+#s1 > .bx .bx-body{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
 /* [element:double-rect] */
 #s2{
 /*#s2.section{*/

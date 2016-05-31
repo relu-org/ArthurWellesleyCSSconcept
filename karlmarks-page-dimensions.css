@@ -5,10 +5,16 @@
 #s1 > .bx .bx-body{
   padding:15% 10%;
   font-weight: 300;
+
 }
 #s1 > .bx .bx-body h2{
   font-weight: 300;
   font-size:2.5em;
+  line-height: 0em;
+}
+#s1 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.8em;
 }
 /* [!element:big-header] */
 
