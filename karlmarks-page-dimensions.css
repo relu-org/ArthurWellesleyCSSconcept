@@ -45,6 +45,7 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
   font-size: 1.8em;
+  font-weight: 300;
 }
 #s3 > .bx .bx-body p{
   font-weight: 300;
@@ -53,6 +54,9 @@
 /* [!element:centered-title] */
 
 /* [element:pin-card] */
+#s4{
+  padding-bottom:5%;
+}
 #s4 > .bx{
   padding:1%;
 }
@@ -61,7 +65,7 @@
   padding: 5%;
 }
 #s4 > .bx .bx-body h2{
-  font-size: 3em;
+  font-size: 2.4em;
   font-weight: normal;
   text-align: center;
   line-height: 1em;
@@ -70,7 +74,24 @@
   font-size: 0.9em;
   font-weight: 300;
   text-align: center;
+  margin:0 5%;
 }
 
 
 /* [!element:pin-card] */
+
+
+#s5 > .bx .bx-body{
+  text-align:center;
+  padding: 5% 10% 2%;
+}
+#s5 > .bx .bx-body h2{
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  font-weight: 300;
+}
+#s5 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 1em;
+}
