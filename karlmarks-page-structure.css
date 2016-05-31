@@ -1,13 +1,9 @@
-/* display desktop */
-#s1-wraper,
-#s2-wraper,
-#s3-wraper,
-#s4-wraper,
-#s5-wraper,
-#s6-wraper,
-#s7-wraper{
-	
+/* [element:double-rect] */
+#s2{
+/*#s2.section{*/
+  display:flex;
 }
+/* [!element:double-rect] */
 
 
 

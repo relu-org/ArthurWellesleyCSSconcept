@@ -13,11 +13,19 @@
 /* [!element:big-header] */
 
 /* [element:double-rect] */
-#s2{
-/*#s2.section{*/
-  display:flex;
-}
 #s2 > .bx{
-  flex: 0 0 50%;
+  flex: 0 0 50%; 
+}
+#s2 > .bx .bx-body{
+  padding:5% 10%;
+}
+#s2 > .bx .bx-body h2{
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-size: 1em;
+}
+#s2 > .bx .bx-body p{
+  font-weight: 300;
+  font-size: 0.8em;
 }
 /* [!element:double-rect] */
