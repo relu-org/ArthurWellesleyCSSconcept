@@ -3,8 +3,10 @@ main{
 }
 
 #s1 > .bx .bg-wrapper{
+	background-size: cover;	
+}
+#s1 > .bx .bg-wrapper .bx-body{
 	background-color: rgba(100, 108, 123, 0.5);
-	background-size: cover;
 	color:#fff;
 }
 
