@@ -7,7 +7,12 @@
 #s2{
 /*#s2.section{*/
   display:flex;
-
+}
+#s2 .bx:last-child > .bx-body h2{
+	display:none;
+}
+#s2 .bx:last-child > .bx-body p{
+	display:none;
 }
 /* [!element:double-rect] */
 
@@ -17,15 +22,19 @@
   display: -webkit-flex;
 }
 
+
 #s6{
 /*#s2.section{*/
   display:flex;
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap; 
+  height:100vh;
 }
 #s6 .bx:nth-child(2n+1) {
 	flex: 0 0 50%;
 	-webkit-flex: 0 0 50%;
 }
-
+#s6 > .bx .bx-body p{
+	display:none;	  
+}
 
