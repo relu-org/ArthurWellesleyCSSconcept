@@ -39,13 +39,13 @@ main{
   color: #02515C;
 }
 
-#s6 > .bx .bx-body:nth-child(3n+1){
+#s6 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.4);
 }
-#s6 > .bx .bx-body:nth-child(3n+2){
+#s6 > .bx:nth-child(3n+2) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.5);
 }
-#s6 > .bx .bx-body:nth-child(3n+3){
+#s6 > .bx:nth-child(3n+3) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.6);
 }
 
@@ -54,13 +54,13 @@ main{
   color: #02515C;
 }
 
-#s7 > .bx .bx-body:nth-child(3n+1){
+#s7 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.6);
 }
-#s7 > .bx .bx-body:nth-child(3n+2){
+#s7 > .bx:nth-child(3n+2) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.5);
 }
-#s7 > .bx .bx-body:nth-child(3n+3){
+#s7 > .bx:nth-child(3n+3) > .bx-body{
 	background-color: rgba(100, 108, 123, 0.4);
 }
 
