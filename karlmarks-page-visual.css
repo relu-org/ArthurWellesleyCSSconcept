@@ -60,7 +60,7 @@ main{
 }
 #s6 > .bx .bx-body:hover{
 	cursor:pointer;
-	background-color: rgba(255, 255, 255, 0.6);
+	background-color: rgba(255, 255, 255, 0.8);
 }
 #s6 > .bx .bx-body:hover > h2{
 	opacity:1;
@@ -91,7 +91,7 @@ main{
 }
 #s7 > .bx .bx-body:hover{
 	cursor:pointer;
-	background-color: rgba(255, 255, 255, 0.6);
+	background-color: rgba(255, 255, 255, 0.8);
 }
 #s7 > .bx .bx-body:hover > h2{
 	opacity:1;
