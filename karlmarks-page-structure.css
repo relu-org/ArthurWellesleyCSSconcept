@@ -44,10 +44,6 @@
 }
 
 
-#s6 > .bx .bx-body p{
-	display:none;	  
-}
-
 
 
 #s7{
@@ -68,7 +64,5 @@
 	flex: 0 0 100%;
 	flex: 0 0 100%;
 }
-#s7 > .bx .bx-body p{
-	display:none;	  
-}
+
 
