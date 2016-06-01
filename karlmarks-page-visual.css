@@ -36,6 +36,7 @@ main{
 
 #s6 > .bx .bx-body{
 	transition: background-color 1s;
+	background-size: cover;
 }
 #s6 > .bx .bx-body h2{
 	color: #02515C;
@@ -62,6 +63,7 @@ main{
 
 #s7 > .bx .bx-body{
 	transition: background-color 2s;
+	background-size: cover;
 }
 #s7 > .bx .bx-body h2{
 	color: #02515C;
