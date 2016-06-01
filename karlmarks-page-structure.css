@@ -35,20 +35,14 @@
 	align-content: stretch;
 	float:left;
 }
-
-
-#s6 .bx:nth-child(3n+2) {
-	flex: 0 0 50%;
-	flex: 0 0 50%;
+#s6 .bx{
+	flex-grow: 1;
 }
 #s6 .bx:nth-child(3n+3) {
-	flex: 0 0 50%;
-	flex: 0 0 50%;
-}
-#s6 .bx:last-child {
 	flex: 0 0 100%;
 	flex: 0 0 100%;
 }
+
 
 #s6 > .bx .bx-body p{
 	display:none;	  
