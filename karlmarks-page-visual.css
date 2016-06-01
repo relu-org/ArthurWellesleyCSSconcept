@@ -55,13 +55,13 @@ main{
 }
 
 #s7 > .bx:nth-child(3n+1) > .bx-body{
-	background-color: #646C7B
+	background-color: rgba(140, 154, 182, 0.6);
 }
 #s7 > .bx:nth-child(3n+2) > .bx-body{
-	background-color: #646C7B
+	background-color: rgba(131, 131, 131, 0.6);
 }
 #s7 > .bx:nth-child(3n+3) > .bx-body{
-	background-color: #646C7B
+	background-color: rgba(58, 70, 93, 0.6);
 
 
 
