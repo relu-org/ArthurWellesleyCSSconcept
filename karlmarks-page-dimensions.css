@@ -103,9 +103,12 @@
   display:flex;
   align-items:center;
   justify-content:center;
+  height:100%;
 }
 #s6 > .bx .bx-body h2{
   font-size: 0.8em;
+  margin: 10%;
+  text-align: center;
 }
 
 /* [element:mozaic] */
@@ -114,7 +117,10 @@
   display:flex;
   align-items:center;
   justify-content:center;
+  height:100%;
 }
 #s7 > .bx .bx-body h2{
   font-size: 0.8em;
+  margin: 10%;
+  text-align: center;
 }
