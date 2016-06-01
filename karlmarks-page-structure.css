@@ -31,7 +31,7 @@
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
 
-	height:50vh;
+	height:20vh;
 	align-content: stretch;
 	float:left;
 }
@@ -57,7 +57,7 @@
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
 
-	height:50vh;
+	height:20vh;
 	align-content: stretch;
 	float:right;
 }

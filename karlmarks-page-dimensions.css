@@ -80,8 +80,9 @@
 
 
 /* [!element:pin-card] */
-
-
+#s5 > .bx{
+  height:100%;
+}
 #s5 > .bx .bx-body{
   text-align:center;
   padding: 5% 10% 2%;
@@ -98,7 +99,9 @@
 }
 
 /* [element:mozaic] */
-
+#s6 > .bx{
+  height:100%;
+}
 #s6 > .bx .bx-body{
   display:flex;
   align-items:center;
