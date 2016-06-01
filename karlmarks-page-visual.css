@@ -66,13 +66,13 @@ main{
 	opacity:1;
 }
 
-#s7 > .bg-wrapper{
+#s7 > .bx .bg-wrapper{
 	background-size: cover;
 }
-#s7 > .bx .bx-body{
+#s7 > .bx .bg-wrapper .bx-body{
 	transition: background-color 2s;
 }
-#s7 > .bx .bx-body h2{
+#s7 > .bx .bg-wrapper .bx-body h2{
 	color: #02515C;
 	opacity:0;
 	transition: opacity 1s;
@@ -80,20 +80,20 @@ main{
 	text-transform: uppercase;
 	font-weight: normal;
 }
-#s7 > .bx:nth-child(3n+1) > .bx-body{
+#s7 > .bx .bg-wrapper:nth-child(3n+1) > .bx-body{
 	background-color: rgba(140, 154, 182, 0.5);
 }
-#s7 > .bx:nth-child(3n+2) > .bx-body{
+#s7 > .bx .bg-wrapper:nth-child(3n+2) > .bx-body{
 	background-color: rgba(131, 131, 131, 0.5);
 }
-#s7 > .bx:nth-child(3n+3) > .bx-body{
+#s7 > .bx .bg-wrapper:nth-child(3n+3) > .bx-body{
 	background-color: rgba(58, 70, 93, 0.5);
 }
-#s7 > .bx .bx-body:hover{
+#s7 > .bx .bg-wrapper .bx-body:hover{
 	cursor:pointer;
 	background-color: rgba(255, 255, 255, 0.8);
 }
-#s7 > .bx .bx-body:hover > h2{
+#s7 > .bx .bg-wrapper .bx-body:hover > h2{
 	opacity:1;
 }
 

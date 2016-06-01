@@ -115,16 +115,16 @@
 }
 
 /* [element:mozaic] */
-#s7 > .bg-wrapper{
+#s7 > .bx .bg-wrapper{
   height:100%;
 }
-#s7 > .bx .bx-body{
+#s7 > .bx .bg-wrapper .bx-body{
   display:flex;
   align-items:center;
   justify-content:center;
   height:100%;
 }
-#s7 > .bx .bx-body h2{
+#s7 > .bx .bg-wrapper .bx-body h2{
   font-size: 0.8em;
   margin: 10%;
   text-align: center;
