@@ -9,8 +9,9 @@
 }
 #s1 > .bx .bx-body h2{
   font-weight: 300;
-  font-size:2.5em;
-  line-height: 0em;
+  font-size: 2.5em;
+  line-height: 1em;
+  margin: 0.1em 0;
 }
 #s1 > .bx .bx-body p{
   font-weight: 300;
@@ -94,4 +95,13 @@
 #s5 > .bx .bx-body p{
   font-weight: 300;
   font-size: 1em;
+}
+
+/* [element:mozaic] */
+
+
+
+#s6 > .bx .bx-body{
+  text-align:center;
+  padding: 5% 10% 2%;
 }

@@ -7,16 +7,25 @@
 #s2{
 /*#s2.section{*/
   display:flex;
+
 }
 /* [!element:double-rect] */
 
 #s4{
 /*#s2.section{*/
   display:flex;
+  display: -webkit-flex;
 }
 
 #s6{
 /*#s2.section{*/
   display:flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap; 
 }
+#s6 .bx:nth-child(2n+1) {
+	flex: 0 0 50%;
+	-webkit-flex: 0 0 50%;
+}
+
 
