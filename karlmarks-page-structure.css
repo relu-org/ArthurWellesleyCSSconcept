@@ -1,12 +1,14 @@
 #s1 > .bx .bx-body{
-  display: flex;
-  flex-direction: column-reverse;
+	display: flex;
+	flex-direction: column-reverse;
 }
 
 /* [element:double-rect] */
 #s2{
-/*#s2.section{*/
-  display:flex;
+	/*#s2.section{*/
+	display:flex;
+	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap; 
 }
 #s2 .bx:last-child > .bx-body h2{
 	display:none;
@@ -18,8 +20,8 @@
 
 #s4{
 /*#s2.section{*/
-  display:flex;
-  display: -webkit-flex;
+	display:flex;
+	display: -webkit-flex;
 }
 
 
