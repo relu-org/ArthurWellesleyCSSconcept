@@ -103,5 +103,7 @@
 
 #s6 > .bx .bx-body{
   text-align:center;
-  padding: 5% 10% 2%;
+}
+#s6 > .bx .bx-body h2{
+  font-size: 0.8em;
 }
