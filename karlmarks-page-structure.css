@@ -1,22 +1,27 @@
-#s1 > .bx .bx-body{
+/*[UiGEN block]*/
+/*[{"element_name":"reverse-header","block":"repo/blockfile"; }]*/
+#s1 > .bx .bg-wrapper .bx-body{
 	display: flex;
 	flex-direction: column-reverse;
 }
+/*[!]*/
 
-/* [element:double-rect] */
+/*[UiGEN block]*/
+/*[{"element_name":"double-rect","block":"repo/blockfile"; }]*/
 #s2{
 	/*#s2.section{*/
 	display:flex;
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
 }
-#s2 .bx:last-child > .bx-body h2{
+#s2 > .bx:last-child > .bg-wrapper .bx-body h2{
 	display:none;
 }
-#s2 .bx:last-child > .bx-body p{
+#s2 > .bx:last-child > .bg-wrapper .bx-body p{
 	display:none;
 }
-/* [!element:double-rect] */
+/*[!]*/
+
 
 #s4{
 /*#s2.section{*/
