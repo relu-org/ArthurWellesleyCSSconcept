@@ -35,12 +35,12 @@ main{
 }
 
 #s6 > .bx .bx-body{
-	transition: background-color 2s;
+	transition: background-color 1s;
 }
 #s6 > .bx .bx-body h2{
 	color: #02515C;
 	opacity:0;
-	transition: opacity 2s;
+	transition: opacity 1s;
 }
 #s6 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(58, 70, 93, 0.6);
@@ -52,17 +52,21 @@ main{
 	background-color: rgba(140, 154, 182, 0.6);
 }
 #s6 > .bx .bx-body:hover{
-	background-color: rgba(0, 0, 0, 0.2);
+	background-color: rgba(255, 255, 255, 0.6);
 }
 #s6 > .bx .bx-body:hover > h2{
 	opacity:1;
 }
 
 
+#s7 > .bx .bx-body{
+	transition: background-color 2s;
+}
 #s7 > .bx .bx-body h2{
 	color: #02515C;
+	opacity:0;
+	transition: opacity 1s;
 }
-
 #s7 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(140, 154, 182, 0.6);
 }
@@ -71,6 +75,12 @@ main{
 }
 #s7 > .bx:nth-child(3n+3) > .bx-body{
 	background-color: rgba(58, 70, 93, 0.6);
-
+}
+#s7 > .bx .bx-body:hover{
+	background-color: rgba(255, 255, 255, 0.6);
+}
+#s7 > .bx .bx-body:hover > h2{
+	opacity:1;
+}
 
 
