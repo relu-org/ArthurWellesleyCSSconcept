@@ -14,9 +14,6 @@
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
 }
-#s2 > .bx:first-child > .bg-wrapper{
-	background-image: none !important;
-}
 #s2 > .bx:last-child > .bg-wrapper .bx-body h2{
 	display:none;
 }

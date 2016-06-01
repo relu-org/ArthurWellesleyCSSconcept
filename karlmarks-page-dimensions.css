@@ -19,15 +19,19 @@
 #s2 > .bx{
   flex: 0 0 50%; 
 }
-#s2 > .bx .bx-body{
-  padding:10%;
+#s2 > .bx .bg-wrapper{
+  height:100%;
 }
-#s2 > .bx .bx-body h2{
+#s2 > .bx .bg-wrapper .bx-body{
+  padding:10%;
+  height:100%;
+}
+#s2 > .bx .bg-wrapper .bx-body h2{
   letter-spacing: 0.15em;
   text-transform: uppercase;
   font-size: 1em;
 }
-#s2 > .bx .bx-body p{
+#s2 > .bx .bg-wrapper .bx-body p{
   font-weight: 300;
   font-size: 0.9em;
 }
