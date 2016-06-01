@@ -10,7 +10,7 @@ main{
 	color:#fff;
 }
 
-#s2 > .bx:first-child > .bx-body{
+#s2 > .bx:first-child > .bx-wrapper .bx-body{
 	background-color: #eee;
 }
 
