@@ -80,13 +80,13 @@ main{
 	text-transform: uppercase;
 	font-weight: normal;
 }
-#s7 > .bx .bg-wrapper:nth-child(3n+1) > .bx-body{
+#s7 > .bx:nth-child(3n+1) > .bg-wrapper .bx-body{
 	background-color: rgba(140, 154, 182, 0.5);
 }
-#s7 > .bx .bg-wrapper:nth-child(3n+2) > .bx-body{
+#s7 > .bx:nth-child(3n+2) > .bg-wrapper .bx-body{
 	background-color: rgba(131, 131, 131, 0.5);
 }
-#s7 > .bx .bg-wrapper:nth-child(3n+3) > .bx-body{
+#s7 > .bx:nth-child(3n+3) > .bg-wrapper .bx-body{
 	background-color: rgba(58, 70, 93, 0.5);
 }
 #s7 > .bx .bg-wrapper .bx-body:hover{

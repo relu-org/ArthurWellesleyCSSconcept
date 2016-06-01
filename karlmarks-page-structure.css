@@ -62,7 +62,7 @@
 #s7 .bx{
 	flex: 1 2;
 }
-#s7 .bx:nth-child(3n+1) > .bg-wrapper {
+#s7 .bx:nth-child(3n+1){
 	flex: 0 0 100%;
 	flex: 0 0 100%;
 }
