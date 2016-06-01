@@ -29,10 +29,8 @@
 	width:50%;
 	/*#s2.section{*/
 	display:flex;
-
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
-
 	height:33vh;
 	align-content: stretch;
 	float:left;
@@ -46,15 +44,12 @@
 }
 
 
-
-
 #s7{
 	width:50%;
 	/*#s2.section{*/
 	display:flex;
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
-
 	height:33vh;
 	align-content: stretch;
 	float:right;
