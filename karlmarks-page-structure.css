@@ -53,7 +53,6 @@
 	width:50%;
 	/*#s2.section{*/
 	display:flex;
-	flex-direction:row;
 	flex-wrap: wrap;
 	-webkit-flex-wrap: wrap; 
 
@@ -65,7 +64,7 @@
 	-webkit-flex: 0 0 50%;
 }
 
-#s7 .bx:nth-child(3n+1) {
+#s7 .bx:nth-child(3n+3) {
 	flex: 0 0 100%;
 	-webkit-flex: 0 0 100%;
 }

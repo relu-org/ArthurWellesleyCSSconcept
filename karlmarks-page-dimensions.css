@@ -99,11 +99,18 @@
 
 /* [element:mozaic] */
 
-
-
 #s6 > .bx .bx-body{
   text-align:center;
 }
 #s6 > .bx .bx-body h2{
+  font-size: 0.8em;
+}
+
+/* [element:mozaic] */
+
+#s7 > .bx .bx-body{
+  text-align:center;
+}
+#s7 > .bx .bx-body h2{
   font-size: 0.8em;
 }
