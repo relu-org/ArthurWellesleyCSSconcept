@@ -40,13 +40,13 @@ main{
 }
 
 #s6 > .bx:nth-child(3n+1) > .bx-body{
-	background-color: rgba(170, 177, 191, 0.8)
+	background-color: #646C7B
 }
 #s6 > .bx:nth-child(3n+2) > .bx-body{
-	background-color: rgba(237, 239, 242, 0.6)
+	background-color: #646C7B
 }
 #s6 > .bx:nth-child(3n+3) > .bx-body{
-	background-color: rgba(67, 79, 104, 0.3);
+	background-color: #646C7B
 }
 
 
@@ -55,13 +55,13 @@ main{
 }
 
 #s7 > .bx:nth-child(3n+1) > .bx-body{
-	background-color: rgba(67, 79, 104, 0.3);
+	background-color: #646C7B
 }
 #s7 > .bx:nth-child(3n+2) > .bx-body{
-	background-color: rgba(237, 239, 242, 0.6)
+	background-color: #646C7B
 }
 #s7 > .bx:nth-child(3n+3) > .bx-body{
-	background-color: rgba(170, 177, 191, 0.8)
+	background-color: #646C7B
 
 
 
