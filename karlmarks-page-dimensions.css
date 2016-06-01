@@ -59,7 +59,7 @@
 }
 #s4 > .bx .bx-body{
   margin: 2%;
-  padding: 5%;
+  padding: 5% 5% 15%;
 }
 #s4 > .bx .bx-body h2{
   font-size: 2.4em;
@@ -76,9 +76,6 @@
 
 
 /* [!element:pin-card] */
-#s5 > .bx{
-  height:100%;
-}
 #s5 > .bx .bx-body{
   text-align:center;
   padding: 5% 10% 2%;
@@ -95,6 +92,10 @@
 }
 
 /* [element:mozaic] */
+#s6{
+  height:50vh;
+  width:50%;
+}
 #s6 > .bx{
   height:100%;
 }
@@ -114,6 +115,10 @@
 }
 
 /* [element:mozaic] */
+#s7{
+  height:50vh;
+  width:50%;
+}
 #s7 > .bx{
   height:100%;
 }
