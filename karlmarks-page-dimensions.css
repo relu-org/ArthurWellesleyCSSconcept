@@ -99,10 +99,13 @@
 }
 
 /* [element:mozaic] */
-#s6 > .bg-wrapper{
+#s6 > .bx{
   height:100%;
 }
-#s6 > .bx .bx-body{
+#s6 > .bx .bg-wrapper{
+  height:100%;
+}
+#s6 > .bx .bg-wrapper .bx-body{
   display:flex;
   align-items:center;
   justify-content:center;
@@ -115,6 +118,9 @@
 }
 
 /* [element:mozaic] */
+#s7 > .bx{
+  height:100%;
+}
 #s7 > .bx .bg-wrapper{
   height:100%;
 }
