@@ -24,11 +24,15 @@
 
 
 #s6{
-/*#s2.section{*/
-  display:flex;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap; 
-  height:100vh;
+	width:50%;
+	/*#s2.section{*/
+	display:flex;
+
+	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap; 
+
+	height:100vh;
+	align-content: stretch;
 }
 #s6 .bx:nth-child(3n+1) {
 	flex: 0 0 100%;
