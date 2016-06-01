@@ -34,14 +34,20 @@ main{
 	color: rgb(51, 51, 51);
 }
 
+
+#s6 > .bx{
+	background-size: cover;
+}
 #s6 > .bx .bx-body{
 	transition: background-color 1s;
-	background-size: cover;
 }
 #s6 > .bx .bx-body h2{
 	color: #02515C;
 	opacity:0;
 	transition: opacity 1s;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	font-weight: normal;
 }
 #s6 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(58, 70, 93, 0.6);
@@ -60,15 +66,19 @@ main{
 	opacity:1;
 }
 
-
+#s7 > .bx{
+	background-size: cover;
+}
 #s7 > .bx .bx-body{
 	transition: background-color 2s;
-	background-size: cover;
 }
 #s7 > .bx .bx-body h2{
 	color: #02515C;
 	opacity:0;
 	transition: opacity 1s;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	font-weight: normal;
 }
 #s7 > .bx:nth-child(3n+1) > .bx-body{
 	background-color: rgba(140, 154, 182, 0.6);
