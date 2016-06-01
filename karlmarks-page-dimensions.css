@@ -99,7 +99,7 @@
 }
 
 /* [element:mozaic] */
-#s6 > .bx{
+#s6 > .bg-wrapper{
   height:100%;
 }
 #s6 > .bx .bx-body{
@@ -115,7 +115,7 @@
 }
 
 /* [element:mozaic] */
-#s7 > .bx{
+#s7 > .bg-wrapper{
   height:100%;
 }
 #s7 > .bx .bx-body{
