@@ -1,11 +1,7 @@
 /* [element:big-header] */
-#s1 > .bx{
-  height:30%;
-}
 #s1 > .bx .bx-body{
   padding: 10% 10% 15%;
   font-weight: 300;
-
 }
 #s1 > .bx .bx-body h2{
   font-weight: 300;

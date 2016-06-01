@@ -1,14 +1,14 @@
 main{
-	font-family: "Open Sans",sans-serif;
+	font-family: Open Sans,sans-serif;
 }
 
-#s1 .bx .bg-wrapper{
+#s1 > .bx .bg-wrapper{
 	background-color: rgba(100, 108, 123, 0.5);
 	background-size: cover;
 	color:#fff;
 }
 
-#s2 .bx:first-child > .bx-body{
+#s2 > .bx:first-child > .bx-body{
 	background-color: #eee;
 }
 
