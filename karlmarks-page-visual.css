@@ -35,5 +35,25 @@ main{
 }
 
 
+#s6 > .bx .bx-body:nth-child(3n+1){
+	background-color: rgba(0, 0, 0, 0.4);
+}
+#s6 > .bx .bx-body:nth-child(3n+2){
+	background-color: rgba(0, 0, 0, 0.6);
+}
+#s6 > .bx .bx-body:nth-child(3n+3){
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+#s7 > .bx .bx-body:nth-child(3n+1){
+	background-color: rgba(0, 0, 0, 0.8);
+}
+#s7 > .bx .bx-body:nth-child(3n+2){
+	background-color: rgba(0, 0, 0, 0.6);
+}
+#s7 > .bx .bx-body:nth-child(3n+3){
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
 
 

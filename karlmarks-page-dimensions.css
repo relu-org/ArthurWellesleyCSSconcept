@@ -115,7 +115,9 @@
 }
 
 /* [element:mozaic] */
-
+#s7 > .bx{
+  height:100%;
+}
 #s7 > .bx .bx-body{
   display:flex;
   align-items:center;
