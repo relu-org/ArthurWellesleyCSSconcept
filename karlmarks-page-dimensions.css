@@ -100,7 +100,9 @@
 /* [element:mozaic] */
 
 #s6 > .bx .bx-body{
-  text-align:center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
 #s6 > .bx .bx-body h2{
   font-size: 0.8em;
@@ -109,7 +111,9 @@
 /* [element:mozaic] */
 
 #s7 > .bx .bx-body{
-  text-align:center;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
 #s7 > .bx .bx-body h2{
   font-size: 0.8em;
